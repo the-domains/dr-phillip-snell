@@ -1,6 +1,6 @@
 name: Dr. Phillip Snell
 favicon: null
-layout_spectrum: 0.11720273410901427
+layout_spectrum: 1
 typography_spectrum: 0.6254363886546344
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.464739428833127
-  lightness: 0.3124690984841436
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.6056196223944426
   rhythmicContrast: 0.32699958933517337
 purpose: []
